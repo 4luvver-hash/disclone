@@ -4,6 +4,3 @@ dist
 .env.local
 *.log
 .DS_Store
-frontend/release
-backend/node_modules
-frontend/node_modules
